@@ -1,0 +1,133 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+#titre {
+    height: 8%;
+    font-family: cursive;
+    background: #1F8DFF; /* bleu */
+}
+
+#body {
+    height: 84%;
+    background-color: #F4F514; /* jaune */
+}
+
+#menu {
+    float: left;
+    top: 1.25%;
+    width: 200px;
+    margin-top: 6.2%;
+    background-color: #F4F514; /* jaune */
+}
+
+#contenu {
+    height: 100%;
+    margin-left: 200px;
+    overflow: auto;
+    text-align: left;
+    background: #F79D0A; /* orange */
+}
+
+#auteurs {
+    height: 8%;
+    text-align: right;
+    background: #44F00C; /* vert */
+}
+
+#etape_2_1,
+#etape_2_2,
+#etape_3,
+#etape_4_1,
+#etape_4_2,
+#etape_5,
+#etape_7,
+#etape_8 {
+    text-align: center;
+}
+
+.menu {
+    width: 50%;
+    margin: 2.5%;
+    list-style-type: none;
+}
+
+.Images {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.blanc {
+    color: white;
+}
+
+.vert {
+    color: green;
+}
+
+.bleu {
+    color: blue;
+}
+
+.orange {
+    color: orange;
+}
+
+.rouge {
+    color: red;
+}
+
+.jaune {
+    color: yellow;
+}
+
+.tableau {
+    margin-top: 3%;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: cursive;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: cursive;
+}
+
+p {
+    margin-top: 0;
+}
+
+ul {
+    width: 50%;
+    margin: auto;
+}
+
+ol {
+    width: 50%;
+    margin: auto;
+}
+
+table {
+    height: 40%;
+    margin-top: 1%;
+    margin-right: auto;
+    margin-left: auto;
+    border-color: #FCD778; /*peche*/
+    text-align: center;
+}
